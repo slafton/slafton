@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slafton
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning Power BI.
-- 💞️ I’m looking to collaborate on multiple projects to sharpen my skills.
+- 🌱 I’m working with unstructured data this semester.
 - 📫 How to reach me https://www.linkedin.com/in/afton-snider/
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slafton
+- 👋 Hi, I’m Afton
 - 👀 I’m interested in data analytics.
 - 🌱 I’m working with unstructured data this semester.
 - 📫 How to reach me https://www.linkedin.com/in/afton-snider/
